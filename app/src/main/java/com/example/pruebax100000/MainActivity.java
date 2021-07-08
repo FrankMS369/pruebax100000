@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //YAAAAAAA WWWEEYYY POR FAVOOOORRRRRR//
         //Aver si si >:V//
+        //Creo que si xd
     }
 }
